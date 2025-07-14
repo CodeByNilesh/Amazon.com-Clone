@@ -24,8 +24,8 @@ This project focuses on mastering layout design, responsive styling, and recreat
 
 ## 🖼️ Screenshots
 
-<img width="1887" height="926" alt="image" src="https://github.com/user-attachments/assets/c6001604-1fad-4f26-943b-51a06b6e4f2c" />
-<img width="1876" height="908" alt="image" src="https://github.com/user-attachments/assets/7235b930-f873-4fc1-a61d-3d8932c93806" />
+<img width="1888" height="926" alt="Screenshot 2025-07-14 233236" src="https://github.com/user-attachments/assets/6b167ed2-0955-4401-aada-f87b88254a36" />
+<img width="1876" height="909" alt="Screenshot 2025-07-14 233324" src="https://github.com/user-attachments/assets/be63d3ed-dfb2-473e-80b1-4a8419a22edd" />
 
 ---
 
